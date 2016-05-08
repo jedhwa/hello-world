@@ -1,5 +1,5 @@
 # hello-world
-First testing repository
+Jed Hwa - First Jed testing repository - Jed Hwa
 
 Hi all,
 
